@@ -10,11 +10,11 @@
 
 
 
-###
+
 
 <h1 align="center">Hey there! I'm Derek👋</h1>
 
-### <h3 align="left">📝 About Me</h3>
+ <h3 align="left">📝 About Me</h3>
 
 <p align="left">
 👨‍🎓 Systems Engineering student in my final semesters.<br>
@@ -24,7 +24,7 @@
 ⚡ In my free time, I enjoy exploring new technologies and working on personal projects.<br>
 </p>
 
-### <h3 align="left">🎯 Goals</h3>
+ <h3 align="left">🎯 Goals</h3>
 
 <p align="left">
 🏆 Improve my problem-solving and software architecture skills.<br>
@@ -34,10 +34,10 @@
 🚀 Build scalable and efficient applications.<br>
 </p>
 
-
+###
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
