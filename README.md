@@ -14,15 +14,26 @@
 
 <h1 align="center">Hey there! I'm Derek👋</h1>
 
-###
+### <h3 align="left">📝 About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">
+👨‍🎓 Systems Engineering student in my final semesters.<br>
+💻 Frontend developer with backend knowledge.<br>
+🚀 Passionate about technology, programming, and innovation.<br>
+🌱 Currently learning fullstack development.<br>
+⚡ In my free time, I enjoy exploring new technologies and working on personal projects.<br>
+</p>
 
-###
+### <h3 align="left">🎯 Goals</h3>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+🏆 Improve my problem-solving and software architecture skills.<br>
+🔍 Learn more about best practices in software development.<br>
+🌍 Contribute to open-source projects and collaborate with other developers.<br>
+📚 Stay up-to-date with the latest trends in web and software development.<br>
+🚀 Build scalable and efficient applications.<br>
+</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
